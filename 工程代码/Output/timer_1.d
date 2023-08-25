@@ -1,0 +1,15 @@
+.\output\timer_1.o: User\src\timer.c
+.\output\timer_1.o: .\CMSIS\stm32f10x.h
+.\output\timer_1.o: .\CMSIS\core_cm3.h
+.\output\timer_1.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\output\timer_1.o: .\CMSIS\system_stm32f10x.h
+.\output\timer_1.o: .\User\stm32f10x_conf.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_dma.h
+.\output\timer_1.o: .\CMSIS\stm32f10x.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_gpio.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_i2c.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_rcc.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_tim.h
+.\output\timer_1.o: .\FWlib\inc\stm32f10x_usart.h
+.\output\timer_1.o: .\FWlib\inc\misc.h
+.\output\timer_1.o: .\User\inc\timer.h
